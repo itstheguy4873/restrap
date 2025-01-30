@@ -2,6 +2,9 @@ restrap 1.0.0
 
 restrap is a barebones ROBLOX mod menu. As of right now, its only feature is a Fast Flag editor.
 
+Get restrap in releases:
+https://github.com/itstheguy4873/restrap/releases
+
 ROBLOX 2006 logo by Roblox Corporation
 https://www.roblox.com
 
