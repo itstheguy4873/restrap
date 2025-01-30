@@ -1,9 +1,6 @@
 restrap 1.0.0
 
-restrap is a barebones ROBLOX mod menu thing.\n
-Python must be installed to run restrap.\n 
-Inspired by Bloxstrap 
-Not affiliated with Roblox Corporation 
+restrap is a barebones ROBLOX mod menu. As of right now, its only feature is a Fast Flag editor.
 
 ROBLOX 2006 logo by Roblox Corporation
 
