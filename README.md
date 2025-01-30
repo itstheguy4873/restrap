@@ -5,6 +5,7 @@ restrap is a barebones ROBLOX mod menu. As of right now, its only feature is a F
 Get restrap in releases:
 https://github.com/itstheguy4873/restrap/releases
 
+-----Credits-----
 ROBLOX 2006 logo by Roblox Corporation
 https://www.roblox.com
 
