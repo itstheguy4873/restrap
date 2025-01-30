@@ -1,9 +1,9 @@
 restrap 1.0.0
 
 restrap is a barebones ROBLOX mod menu thing.\n
-Python must be installed to run restrap.\n
-Inspired by Bloxstrap
-Not affiliated with Roblox Corporation
+Python must be installed to run restrap.\n 
+Inspired by Bloxstrap 
+Not affiliated with Roblox Corporation 
 
 ROBLOX 2006 logo by Roblox Corporation
 
