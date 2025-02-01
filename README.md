@@ -13,7 +13,7 @@ restrap is available for Windows only.
 
 You can get restrap from [releases](https://github.com/itstheguy4873/restrap/releases).
 
-If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize restrap.\
+If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize restrap.
 
 If you encounter any problems, feel free to open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
