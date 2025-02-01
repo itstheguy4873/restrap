@@ -2,7 +2,7 @@
 
 # About
 
-restrap is a tool designed to enchance Roblox by providing features not currently available in the client.\
+restrap is a tool designed to enchance Roblox by providing features not currently available in the client.
 
 restrap is available for Windows only.
 
