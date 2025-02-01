@@ -24,5 +24,5 @@ If you encounter any problems, feel free to open an [issue](https://github.com/i
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 rdbende for the [tkinter Azure theme](https://github.com/rdbende/Azure-ttk-theme)\
-Anybody else who helped along the way 🙂\
+Anybody else who helped along the way 🙂
 
