@@ -4,5 +4,5 @@
 
 restrap is a tool designed to enchance Roblox by providing features not currently available in the client.
 
-	**The only official downloads for restrap are this repository and the** [website](https://sites.google.com/view/restrap-roblox).
+**The only official downloads for restrap are this repository and the** [website](https://sites.google.com/view/restrap-roblox).
 
