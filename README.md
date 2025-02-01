@@ -26,5 +26,5 @@ If you encounter any problems, feel free to open an [issue](https://github.com/i
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 rdbende for the [tkinter Azure theme](https://github.com/rdbende/Azure-ttk-theme)\
-Anybody else who helped me
+If you are the creator of anything used to create restrap and were not properly credited, you can open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
