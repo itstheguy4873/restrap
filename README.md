@@ -6,7 +6,8 @@ restrap is a tool designed to enchance Roblox by providing features not currentl
 
 restrap is available for Windows only.
 
-**The only official downloads for restrap are this repository and the** [website](https://sites.google.com/view/restrap-roblox).
+**The only official downloads for restrap are this repository and the** [website](https://sites.google.com/view/restrap-roblox).\
+**Any other website is not owned by me and can potentially be malware.**
 
 # Installing
 
