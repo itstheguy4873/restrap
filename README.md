@@ -13,18 +13,18 @@ restrap is available for Windows only.
 
 You can get restrap from [releases](https://github.com/itstheguy4873/restrap/releases).
 
-If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize restrap.\
+If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize restrap.
 
 If you encounter any problems, feel free to open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
 # Features
 
 * Ability to manage FastFlags
-* bullet point
+* Actively being developed
 
 # Credits
 
 [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap/) for the idea\
 rdbende for the [tkinter Azure theme](https://github.com/rdbende/Azure-ttk-theme)\
-Anybody else who helped along the way 🙂
+If you are the creator of anything used to create restrap and were not properly credited, you can open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
