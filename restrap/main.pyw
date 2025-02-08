@@ -5,11 +5,8 @@ import requests
 import os
 import subprocess
 import sys
-import autoupdate
 import config
 import json
-
-autoupdate.update()
 
 def readconfig():
     with open('config.json', 'r') as f:
