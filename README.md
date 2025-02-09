@@ -2,18 +2,18 @@
 
 # About
 
-restrap is a tool designed to enchance Roblox by providing features not currently available in the client.
+breezeMod is a tool designed to enchance Roblox by providing features not currently available in the client.
 
-restrap is available for Windows only.
+breezeMod is available for Windows only.
 
-**The only official downloads for restrap are this repository and the** [website](https://sites.google.com/view/restrap-roblox).\
+**The only official downloads for breezeMod are this repository and the** [website](https://sites.google.com/view/restrap-roblox).\
 **Any other website is not owned by me and can potentially be malware.**
 
 # Installing
 
-You can get restrap from [releases](https://github.com/itstheguy4873/restrap/releases).
+You can get breezeMod from [releases](https://github.com/itstheguy4873/restrap/releases).
 
-If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize restrap.
+If your antivirus software flags restrap as malicious, it doesn't mean anything. It just does this because it doesn't recognize breezeMod.
 
 If you encounter any problems, feel free to open an [issue](https://github.com/itstheguy4873/restrap/issues).
 
